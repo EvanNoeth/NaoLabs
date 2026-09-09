@@ -1,0 +1,3 @@
+I chose my tkinter because it was the GUI used in the lab example and also because I googled some Wizard-of-Oz setups and they were primarily tkinter.
+
+I found it rather easy to call actions in buttons however I struggled with a lot of the grid and button creation in itself because I had never done it before. I did look up how to change the color of a button to color my emergency rest state for the joints and read the gemini summary on google (technically counts as AI use). I also did some basic googling to figure out the tab notebook between speech controls and motion and posture.

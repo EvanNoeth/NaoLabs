@@ -9,7 +9,6 @@ def main():
     root.title("NAO 3 Good Things Panel")
     root.geometry("500x450")
 
-    # robot state, shared across the nested functions below
     state = {
         "session": None,
         "tts": None,
